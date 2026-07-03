@@ -4,6 +4,6 @@
 # 폴더 생성 규칙
 '팀명_과제핵심키워드' 형식으로 폴더를 생성하여 업로드하세요. 예) ACELab_Papercraft
 # 제출 방법
-상단의 [Add file] 버튼 클릭 -> [Upload files] 선택
-본인의 프로젝트 폴더를 통째로 드래그 앤 드롭
-하단의 Commit changes 버튼을 누르면 완료!
+1. 상단의 [Add file] 버튼 클릭 -> [Upload files] 선택
+2. 본인의 프로젝트 폴더를 통째로 드래그 앤 드롭
+3. 하단의 Commit changes 버튼을 누르면 완료!
